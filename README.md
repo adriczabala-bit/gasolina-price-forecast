@@ -224,14 +224,3 @@ gasolina-price-forecast/
 ```
 
 ---
-
-## 🚀 Próximos pasos
-
-Como posibles ampliaciones del proyecto:
-
-* Incorporar variables de refino y márgenes.
-* Añadir indicadores macroeconómicos.
-* Incorporar variables de mercado energético adicionales.
-* Estudiar modelos específicos para detectar cambios bruscos.
-* Realizar un análisis contrafactual de shocks extraordinarios.
-* Comparar modelos de series temporales como ARIMA y modelos basados en boosting.
